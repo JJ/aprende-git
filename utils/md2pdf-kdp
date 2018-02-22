@@ -4,7 +4,7 @@
 
 ../../perl6em/utils/expand-urls.p6 . ../utils/urls-with-short.json
 pandoc --template=/home/jmerelo/Libros/curso-git/utils/plantilla-kdp.latex \
-       -V mainfont=DroidSans \
+       -V mainfont="Source Sans Pro" \
        -V lang=es-ES\
        -V author='Pablo Hinojosa, JJ Merelo' -V title='Aprende Git'\
        -V documentclass=book\
