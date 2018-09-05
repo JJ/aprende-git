@@ -1,16 +1,15 @@
 Aprende git
 =========
 
-[![Build Status](https://travis-ci.org/oslugr/curso-git.svg?branch=master)](https://travis-ci.org/oslugr/curso-git)
+[![Build Status](https://travis-ci.com/JJ/aprende-git.svg?branch=master)](https://travis-ci.com/JJ/aprende-git)
 
 Repositorio con el material para el [libro *Aprende git*](http://amzn.to/2uOSCzX). Se escribió originalmente usando
 [Markdown en su versión Kramdown](http://kramdown.gettalong.org/quickref.html),
 aunque finalmente hemos encontrado que funciona mejor transformándolo
 con [Pandoc](http://pandoc.org/).
 
-Incluye seis módulos usados en el
-[curso virtual de Git](http://cevug.ugr.es/git), que también
-[puedes descargarte en cualquiera de las versiones en ePub](https://github.com/oslugr/curso-git/releases), 
+Te lo puedes 
+[descargar en cualquiera de las versiones en ePub](https://github.com/oslugr/curso-git/releases), 
 [comprar en Amazon en formato ebook](https://www.amazon.es/dp/B00K515GL2?tag=atalaya-21&camp=3634&creative=24822&linkCode=as4&creativeASIN=B00K515GL2&adid=0MNVCEFMSN6CVHJCCJEH&)
 o
 [en formato físico](https://www.amazon.es/Aprende-Git-y-camino-GitHub/dp/1521889619/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1411621815&sr=1-2). Si necesitas generar otro formato, puedes inspirarte en los conversores que [hay en el directorio `utils`](utils/).
@@ -27,7 +26,7 @@ o
 ## Más información
 
 Este repositorio está acompañado de otro
-[repositorio de ejemplo](https://github.com/oslugr/repo-ejemplo) sobre
+[repositorio de ejemplo](https://github.com/JJ/repo-ejemplo) sobre
 el que se pone en práctica casi todo lo que se muestra en el libro y de una
 [plantilla de repositorio](https://github.com/JJ/repo-plantilla) usada
 sobre todo para los temas de fontanería; también contiene una serie de
