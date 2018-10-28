@@ -739,7 +739,7 @@ echo ". Cambios en este commit\n ${STATS}" >> "$1"
 ```
 
 Es interesante notar, en este caso, que se usa `diff --cached` ya que
-en este caso los cambios estarán ya *staged* o *cached* y la
+en este caso los cambios estarán ya *staged* o *cached* y las
 diferencias (que suelen aparecer de todas formas en el mensaje que da
 el comando) serán entre HEAD y lo que hay ya almacenado en el área de
 preparación de los ficheros, no entre HEAD y lo que hay en el sistema
